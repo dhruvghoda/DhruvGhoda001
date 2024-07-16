@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DhruvGhoda001
-- 👀 I’m interested in FULL STACK DEV.
-- 🌱 I’m currently learning node.js
+- 👋 Hi, I’m Dhruv
+- 👀 I’m interested in python Dev.
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ghodadhruv001@gmail.com
 - 😄 Pronouns: ...
